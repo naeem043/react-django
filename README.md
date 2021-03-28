@@ -1,8 +1,8 @@
 # Django React BoilerPlate
 ---
 
-# [CodeWithRafiq](https://www.youtube.com/c/CodeWithRafiq/)
-
+# [Youtube Link of Source](https://www.youtube.com/c/CodeWithRafiq/)
+# [Github of Source](https://github.com/codewithrafiq)
 ---
 ## Reactjs
 
